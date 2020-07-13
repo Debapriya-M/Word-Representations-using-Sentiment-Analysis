@@ -1,4 +1,4 @@
-NLP Project by: Aishwarya, Abhijat and Debapriya.
+Worked upon by: Debapriya Mukherjee, Abhijat Shrivastava and Aishwarya Vijayakumar.
 
 Repository for baseline code: https://github.com/PrashantRanjan09/Improved-Word-Embeddings
 
